@@ -1,0 +1,10 @@
+{
+  "token": "",
+  "prefix": "d",
+  "connstring": "server=localhost;database=terraSpielTestDb01;user=root;password=1234",
+  "enviroment": "Debug",
+  "harvest_cd": 1800,
+  "train_cd": 3600,
+  "build_cd": 14440,
+  "starting_money": 500
+}
